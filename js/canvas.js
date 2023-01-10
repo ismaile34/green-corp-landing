@@ -84,6 +84,5 @@ class CanvasBackground {
        }
    }
 }
-
 const canvas = new CanvasBackground("orb-canvas");
 canvas.start();
