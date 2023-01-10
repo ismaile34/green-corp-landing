@@ -104,6 +104,7 @@ footer{
     font-size: 18px;
     line-height: 30px;
     opacity: 0.8;
+    position: relative;
 }
 
 .about button{
@@ -310,6 +311,13 @@ footer{
 
 .footer__links a{
     padding-bottom: 15px;
+}
+
+.orb-canvas{
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
 }
 .promo {
     display: flex;
